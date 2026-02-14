@@ -1,12 +1,3 @@
-<<<<<<< HEAD
-- 👋 Hi, I’m Seyfu-Saliya,
--  my official telegram account username is @seifu_sr
-- 👀 I’m interested in programming, web developing, Networking
-- 🌱 I’m currently learning at Unity University
-- 💞️ I’m looking to collaborate on any Tech company 
-- 📫 Email Address is seyfusaliya89@gmail.com,
-   phone number +251915809091
-=======
 # 🚀 Hi there, I'm **Seyfu Saliya** (Seyfu-Saliya)
 ### 👨‍💻 ERP Technical Developer | Techno-Functional Consultant | Odoo Specialist
 
@@ -66,7 +57,6 @@ Let's talk about ERP, Odoo, or any exciting tech projects!
 <p align="center">
   <i>"Efficiency is doing things right; effectiveness is doing the right things." - Peter Drucker</i>
 </p>
->>>>>>> my-new-branch
 
 <!---
 Seyfu-Saliya/Seyfu-Saliya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

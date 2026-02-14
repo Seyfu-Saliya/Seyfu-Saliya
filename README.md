@@ -1,5 +1,5 @@
 # 🚀 Hi there, I'm **Seyfu Saliya** (Seyfu-Saliya)
-### 👨‍💻 ERP Technical Developer | Techno-Functional Consultant | Odoo Specialist
+### 👨‍💻 ERP Technical Developer | Techno-Functional Consultant | MERN Stack Developer | Web and Mobile app Developer 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/mureiv/mureiv/master/cap.gif" width="400px">

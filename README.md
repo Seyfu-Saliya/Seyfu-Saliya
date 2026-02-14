@@ -33,7 +33,6 @@ I am a passionate **ERP Technical Developer** with a strong **Techno-Functional*
 ### 📊 GitHub Analytics
 
 <p align="center">
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seyfu-Saliya&show_icons=true&theme=dracula&hide_border=true" />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Seyfu-Saliya&theme=dracula" /></p>
 
 <p align="center">

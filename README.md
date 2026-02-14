@@ -36,6 +36,8 @@ I am a passionate **ERP Technical Developer** with a strong **Techno-Functional*
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seyfu-Saliya&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seyfu-Saliya&layout=compact&theme=dracula&langs_count=6" />
 </p>
+<a href="https://t.me/seifu_sr" target="blank"><img align="center" src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="seifu_sr" /></a>
+  <a href="mailto:seyfusaliya89@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="seyfusaliya89@gmail.com" /></a>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Seyfu-Saliya&theme=dracula" />
 </p>
